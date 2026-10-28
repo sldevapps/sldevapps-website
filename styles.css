@@ -136,6 +136,8 @@ h3 { font-size: 20px; letter-spacing: -.01em; margin: 0 0 8px; }
 .app-top img { width: 64px; height: 64px; border-radius: 15px; box-shadow: 0 2px 8px rgba(0, 0, 0, .18); }
 .app-top h3 { margin: 0; }
 .tag { font-size: 13px; color: var(--accent); font-weight: 600; }
+.app-links { margin: 0; display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 18px; }
+.app-links .small { font-size: 14px; color: var(--muted); }
 .apps-note { margin-top: 28px; color: var(--muted); font-size: 15px; }
 
 /* Process */
